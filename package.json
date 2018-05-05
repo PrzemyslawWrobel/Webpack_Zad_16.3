@@ -1,0 +1,23 @@
+{
+  "name": "webpack_zad_16.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrzemyslawWrobel/Webpack_Zad_16.3.git"
+  },
+  "author": "PW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrzemyslawWrobel/Webpack_Zad_16.3/issues"
+  },
+  "homepage": "https://github.com/PrzemyslawWrobel/Webpack_Zad_16.3#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
